@@ -1,0 +1,183 @@
+{
+    "categories": [
+      {
+        "id": 1,
+        "name": "",
+        "image": "https://rukminim2.flixcart.com/flap/3240/3060/image/6ecb75e51b607880.jpg?q=60",
+        "subcategories": [
+          {
+            "id": 101,
+            "name": "Men",
+            "subcategories": [
+              { "id": 1001, "name": "Shaving & Grooming" },
+              { "id": 1002, "name": "Bath & Body" },
+              { "id": 1003, "name": "Fragrances" }
+            ]
+          },
+          {
+            "id": 102,
+            "name": "Women",
+            "subcategories": [
+              { "id": 1004, "name": "Skin Care" },
+              { "id": 1005, "name": "Hair Care" },
+              { "id": 1006, "name": "Makeup" },
+              { "id": 1007, "name": "Fragrances" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "",
+        "image": "https://rukminim2.flixcart.com/flap/3240/3060/image/4be8a679014497f0.png?q=60",
+        "subcategories": [
+          {
+            "id": 201,
+            "name": "Furniture",
+            "subcategories": [
+              { "id": 2001, "name": "Living Room" },
+              { "id": 2002, "name": "Bedroom" },
+              { "id": 2003, "name": "Dining Room" }
+            ]
+          },
+          {
+            "id": 202,
+            "name": "Home Decor",
+            "subcategories": [
+              { "id": 2004, "name": "Wall Art" },
+              { "id": 2005, "name": "Lighting" },
+              { "id": 2006, "name": "Curtains & Blinds" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "",
+        "image": "https://rukminim2.flixcart.com/fk-p-flap/3240/3060/image/07d71cbddb6083ad.jpg?q=60",
+        "subcategories": [
+          {
+            "id": 301,
+            "name": "Kitchen Appliances",
+            "subcategories": [
+              { "id": 3001, "name": "Microwaves" },
+              { "id": 3002, "name": "Refrigerators" },
+              { "id": 3003, "name": "Mixers & Grinders" }
+            ]
+          },
+          {
+            "id": 302,
+            "name": "Home Appliances",
+            "subcategories": [
+              { "id": 3004, "name": "Washing Machines" },
+              { "id": 3005, "name": "Air Conditioners" },
+              { "id": 3006, "name": "Water Purifiers" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "",
+        "image": "https://rukminim2.flixcart.com/flap/3240/3060/image/913e96c334d04395.jpg?q=60",
+        "subcategories": [
+          {
+            "id": 401,
+            "name": "Mobiles",
+            "subcategories": [
+              { "id": 4001, "name": "Smartphones" },
+              { "id": 4002, "name": "Feature Phones" },
+              { "id": 4003, "name": "Mobile Accessories" }
+            ]
+          },
+          {
+            "id": 402,
+            "name": "Computers",
+            "subcategories": [
+              { "id": 4004, "name": "Laptops" },
+              { "id": 4005, "name": "Desktops" },
+              { "id": 4006, "name": "Computer Accessories" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "",
+        "image": "https://rukminim2.flixcart.com/flap/3240/3060/image/f07bb3e1c1392b47.jpg?q=60",
+        "subcategories": [
+          {
+            "id": 501,
+            "name": "Men",
+            "subcategories": [
+              { "id": 5001, "name": "Clothing" },
+              { "id": 5002, "name": "Footwear" },
+              { "id": 5003, "name": "Accessories" },
+              { "id": 5004, "name": "Watches" }
+            ]
+          },
+          {
+            "id": 502,
+            "name": "Women",
+            "subcategories": [
+              { "id": 5005, "name": "Clothing" },
+              { "id": 5006, "name": "Footwear" },
+              { "id": 5007, "name": "Jewellery" },
+              { "id": 5008, "name": "Handbags" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "",
+        "image": "https://rukminim2.flixcart.com/flap/3240/3060/image/42f9a853f9181279.jpg?q=60",
+        "subcategories": [
+          {
+            "id": 601,
+            "name": "Smartphones",
+            "subcategories": [
+              { "id": 6001, "name": "Android Phones" },
+              { "id": 6002, "name": "iPhones" },
+              { "id": 6003, "name": "Gaming Phones" }
+            ]
+          },
+          {
+            "id": 602,
+            "name": "Accessories",
+            "subcategories": [
+              { "id": 6004, "name": "Cases & Covers" },
+              { "id": 6005, "name": "Chargers" },
+              { "id": 6006, "name": "Screen Protectors" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "",
+        "image": "https://rukminim2.flixcart.com/flap/3240/3060/image/3e16b5155e5a68fb.jpg?q=60",
+        "subcategories": [
+          {
+            "id": 701,
+            "name": "Fruits & Vegetables",
+            "subcategories": [
+              { "id": 7001, "name": "Fresh Fruits" },
+              { "id": 7002, "name": "Fresh Vegetables" },
+              { "id": 7003, "name": "Organic Produce" }
+            ]
+          },
+          {
+            "id": 702,
+            "name": "Dairy & Bakery",
+            "subcategories": [
+              { "id": 7004, "name": "Milk & Milk Products" },
+              { "id": 7005, "name": "Bread & Bakery" },
+              { "id": 7006, "name": "Cheese" }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
